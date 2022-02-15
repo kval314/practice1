@@ -10,3 +10,8 @@ p, a {
 
 /* layout */
 
+p {
+   margin-bottom: 30px;
+   font-size: 14px;
+   color: #1f1f2e;
+}
